@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">OpenCVTesseractOcr</string>
+
+    <string name="ocr_result_tip">인식 결과는 여기에 나타납니다.</string>
+</resources>
